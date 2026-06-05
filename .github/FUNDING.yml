@@ -1,0 +1,5 @@
+# 赞助配置 - 自动显示在 GitHub 仓库顶部
+# 设置一次就不用管了
+
+github: [sysy3301sysy-ops]
+custom: ["https://github.com/sysy3301sysy-ops/eNSP-Toolkit"]
