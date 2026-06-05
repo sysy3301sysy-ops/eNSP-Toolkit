@@ -64,10 +64,13 @@ $ python ensp_config_gen.py interactive
 
 提 issue 或 PR，让工具支持更多模板。
 
-## 📄 许可
+## ₡ 支持项目
+
+如果这个工具帮到了你，欢迎请喝杯咖啡 ☕
+
+> **[ ⤡ 点击请喝咖啡 ](https://afdian.com/a/YOUR_AFDIAN_PAGE)**  
+> *改为你的爱发电链接或微信赞赏码地址*
+
+## © 许可
 
 MIT License
-
----
-
-**如果这个工具帮到了你，欢迎 ⭐ 投喂支持 ❤️**
